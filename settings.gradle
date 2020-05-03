@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':ioc', ':gs', ':viewfinder-compiler', ':viewfinder-annotation', ':viewfinder'
 rootProject.name='APT'
